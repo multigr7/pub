@@ -1,7 +1,58 @@
+@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -487,13 +538,288 @@ h6,
   background-color: #ffffff;
 }
 #header1-7 .mbr-section-title {
-  color: #ffffff;
+  color: #000000;
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+  font-size: 36px;
 }
 #header1-7 .mbr-section-lead {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+  color: #000000;
+}
+#content2-o DIV {
   text-align: right;
   font-family: 'Lato', sans-serif;
-  font-size: 16px;
 }
-#msg-box4-8 H3 {
+#content2-o P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-o SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-h H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 100px;
+}
+#header3-h SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#content2-g DIV {
+  text-align: right;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+#content2-g P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-g SPAN {
+  font-family: 'Lato', sans-serif;
+  text-align: center;
+}
+#header3-1n .mbr-section-title,
+#header3-1n .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1n H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#header3-1n SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#header3-1n DIV {
+  font-size: 72px;
+}
+#content2-p DIV {
+  text-align: right;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+#content2-p P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-p SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-u DIV {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+  font-size: 15px;
+}
+#content2-u P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-u SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-u I {
+  text-align: right;
+}
+#content2-u B {
+  font-size: 30px;
+}
+#content7-r P {
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+}
+#content7-r DIV {
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+}
+#header3-1p .mbr-section-title,
+#header3-1p .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1p H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#header3-1p SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#header3-1p DIV {
+  font-size: 72px;
+}
+#content2-11 DIV {
+  text-align: right;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+#content2-11 P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-11 SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-13 DIV {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+  font-size: 15px;
+}
+#content2-13 P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-13 SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-13 I {
+  text-align: right;
+}
+#content2-13 B {
+  font-size: 30px;
+}
+#header3-16 .mbr-section-title,
+#header3-16 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-16 H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#header3-16 SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#header3-16 DIV {
+  font-size: 72px;
+}
+#content2-17 DIV {
+  text-align: right;
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+}
+#content2-17 P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-17 SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-18 DIV {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+  font-size: 15px;
+}
+#content2-18 P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-18 SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-18 I {
+  text-align: right;
+}
+#content2-18 B {
+  font-size: 30px;
+}
+#header3-k .mbr-section-title,
+#header3-k .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-k H3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#content2-1f DIV {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+}
+#content2-1f P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-1f SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-1f I {
+  text-align: right;
+}
+#content2-1f B {
+  font-size: 30px;
+}
+#header3-1d .mbr-section-title,
+#header3-1d .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1d H3 {
+  text-align: right;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 72px;
+}
+#header3-1d SMALL {
+  font-family: 'Lato', sans-serif;
+  font-size: 12px;
+}
+#header3-1d DIV {
+  font-size: 72px;
+}
+#content2-1g DIV {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+}
+#content2-1g P {
+  font-size: 12px;
+  font-family: 'Lato', sans-serif;
+}
+#content2-1g SPAN {
+  font-family: 'Lato', sans-serif;
+}
+#content2-1g I {
+  text-align: right;
+}
+#content2-1g B {
+  font-size: 30px;
+}
+#msg-box4-1m H3 {
   color: #232323;
+  font-size: 30px;
+}
+#msg-box4-1m P {
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+}
+#msg-box4-1l H3 {
+  color: #232323;
+  font-size: 30px;
+}
+#msg-box4-1l P {
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+}
+#header1-1e .mbr-section-title {
+  color: #000000;
+  text-align: center;
+  font-family: 'Slabo 27px', serif;
+  font-size: 36px;
+}
+#header1-1e .mbr-section-lead {
+  text-align: center;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 14px;
+  color: #000000;
 }
